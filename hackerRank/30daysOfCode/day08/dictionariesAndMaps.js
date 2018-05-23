@@ -1,28 +1,21 @@
 function processData(input) {
     //Enter your code here
-    var phoneBook = [], element = {};
-	//Split the input
-    input = input.split("\n");
-    
-    
-    for (i = 1; i < input.length; i++) {
-        var arr = input[i].split(" ");
-        
-        if(arr.length == 1) {
-            var  callbackPhoneBook = function(element) {
-                if(element.name === arr[0]) {
-                    console.log(element.name +"=" +element.tel); 
-                    return true;
-                } else { 
-                	return false; 
-             	}                  
-            };
-            
-            if( !phoneBook.find(callbackPhoneBook)) {
-            	console.log("Not found"); 
-            }
-        } else if (arr.length == 2) { 
-        	phoneBook.push({name : arr[0], tel : arr[1]}); 
+input = input.split('\n')
+    var N = parseInt(input[0])
+
+    var phonebook = []
+    for (var k = 0; k< N; k++){
+        var line = input[k+1]
+        line = line.split(' ')
+        phonebook[line[0]] = line[1]
+    }
+
+    for (var k = N+1; k < input.length; k++ ){
+        var num = (phonebook[input[k]])
+        if (num !== undefined){
+            console.log(input[k]+'='+num)
+        } else {
+            console.log('Not found')
         }
     }
 } 
