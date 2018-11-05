@@ -64,7 +64,8 @@ console.log("isSafeInteger(100) = " + Number.isSafeInteger(100));
 ```
 
 Output
-```
+
+```js
 1 / 0 = Infinity
 1 / -0 = -Infinity
 MAX_VALUE: 1.7976931348623157e+308
@@ -95,7 +96,8 @@ console.log(fourthString);
 ```
 
 Output
-```
+
+```js
 Hello, There.
 How're you?
 c
@@ -162,7 +164,8 @@ console.log(eighthVar + " is a " + typeof eighthVar);
 ```
 
 Output
-```
+
+```js
 150000 is a number
 Hello is a string
 true is a boolean
@@ -203,7 +206,8 @@ print(someVariable);
 ```
 
 Output
-```
+
+```js
 someVariable(5) is a number
 someVariable(Hello) is a string
 someVariable(true) is a boolean
@@ -277,7 +281,8 @@ console.log(seventhVar);
 ```
 
 Output
-```
+
+```js
 1
 String
 true
@@ -318,7 +323,8 @@ print("sumOfNumberAndBoolean", sumOfNumberAndBoolean);
 ```
 
 Output
-```
+
+```js
 sumOfNumberAndString(10Ten) is a string
 sumOfBooleanAndString(falseTen) is a string
 sumOfNumberAndBoolean(10) is a number

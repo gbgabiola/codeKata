@@ -51,12 +51,14 @@ function main() {
 ```
 
 Input
-```
+
+```js
 I'm using JavaScript to print to stdout.
 ```
 
 Output
-```
+
+```js
 You entered the following text in the Input box:
 I'm using JavaScript to print to stdout.
 ```
