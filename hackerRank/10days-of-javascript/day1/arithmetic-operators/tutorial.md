@@ -1,8 +1,6 @@
-# [Day 1: Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/topics)
+# [Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/topics)
 
-## Arithmetic Operators
-
-### Operator Types
+## Operator Types
 
 #### Unary
 A _unary_ operator requires a single operand, either before or after the operator, following this format:

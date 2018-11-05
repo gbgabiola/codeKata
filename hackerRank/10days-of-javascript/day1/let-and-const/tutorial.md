@@ -1,8 +1,6 @@
-# [Day 1: Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const/topics)
+# [Variable Declaration Keywords](https://www.hackerrank.com/challenges/js10-let-and-const/topics)
 
-## Variable Declaration Keywords
-
-### `var`
+## `var`
 We use the _var_ keyword to declare variables. The scope of a variable declared using this keyword is within the context wherever it was declared. For variables declared outside any function, this means they are globally available throughout the program. For variables declared within a function, this means they are only available within the function itself.
 
 ```js
@@ -44,7 +42,7 @@ Solution
 3. Variable `a` is declared a second time inside the _if_ block (still using the _var_ keyword) and initialized with a value of `11 + 1 = 12`. We print the value of `a = 12`.
 4. We exit the _if_ block and print the value of `a` in _main_. This value is `12` because the scope of the initial declaration of `a` in _main_ includes the _if_ block.
 
-### `let`
+## `let`
 We use the _let_ keyword to declare variables that are limited in scope to the block, statement, or expression in which they are used. This is unlike the _var_ keyword, which defines a variable globally or locally to an entire function regardless of block scope.
 
 ```js
@@ -130,7 +128,7 @@ SyntaxError: Identifier 'a' has already been declared
     at FSReqWrap.wrapper [as oncomplete] (fs.js:658:17)
 ```
 
-### `const`
+## `const`
 We use the _const_ keyword to create a _read-only_ reference to a value, meaning the value referenced by this variable cannot be reassigned. Because the value referenced by a constant variable cannot be reassigned, JavaScript _requires_ that constant variables always be initialized.
 
 ```js

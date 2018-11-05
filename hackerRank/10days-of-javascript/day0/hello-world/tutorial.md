@@ -1,6 +1,4 @@
-# [Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/topics)
-
-## JavaScript Basics
+# [JavaScript Basics](https://www.hackerrank.com/challenges/js10-hello-world/topics)
 
 ### Lexical Structure
 The lexical structure of a programming language is the set of elementary rules that tells you _how_ to write programs in that language. It's essentially the lowest-level syntax of a language and specifies such things as what variable names look like, the delimiter characters for comments, and how one program statement is separated from the next.

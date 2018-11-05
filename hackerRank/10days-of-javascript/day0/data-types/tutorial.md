@@ -1,8 +1,6 @@
-# [Day 0: Data Types](https://www.hackerrank.com/challenges/js10-data-types/topics)
+# [Data Types](https://www.hackerrank.com/challenges/js10-data-types/topics)
 
-## Data Types
-
-### JavaScript's Data Types
+## JavaScript's Data Types
 The latest [ECMAScript](http://www.ecma-international.org/ecma-262/7.0/index.html) standard defines seven data types:
 
 - A _primitive_ value or data type is data that is not an object and has no methods. All primitives are immutable, meaning they cannot be changed. There are six primitive types:
