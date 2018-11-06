@@ -1,27 +1,42 @@
+'use strict';
+
 process.stdin.resume();
-process.stdin.setEncoding('ascii');
+process.stdin.setEncoding('utf-8');
 
-var input_stdin = "";
-var input_stdin_array = "";
-var input_currentline = 0;
+let inputString = '';
+let currentLine = 0;
 
-process.stdin.on('data', function (data) {
-    input_stdin += data;
+process.stdin.on('data', inputStdin => {
+    inputString += inputStdin;
 });
 
-process.stdin.on('end', function () {
-    input_stdin_array = input_stdin.split("\n");
-    main();    
+process.stdin.on('end', _ => {
+    inputString = inputString.replace(/\s*$/, '')
+        .split('\n')
+        .map(str => str.replace(/\s*$/, ''));
+
+    main();
 });
 
 function readLine() {
-    return input_stdin_array[input_currentline++];
+    return inputString[currentLine++];
 }
 
-/////////////// ignore above this line ////////////////////
+// Complete the solve function below.
+function solve(meal_cost, tip_percent, tax_percent) {
+    const tipPercent = (meal_cost * tip_percent) / 100;
+    const taxPercent = (meal_cost * tax_percent) / 100;
+    const totalCost = Math.round(meal_cost + tipPercent + taxPercent);
+    // console.log(`The total meal cost is ${totalCost} dollars`);
+    console.log(totalCost);
+}
 
-var tipCost = mealCost * tipPercent / 100;
-var taxCost = mealCost * taxPercent / 100;
-var totalCost = Math.round(mealCost + tipCost + taxCost);
+function main() {
+    const meal_cost = parseFloat(readLine());
 
-console.log("The total meal cost is " + totalCost + " dollars.");
+    const tip_percent = parseInt(readLine(), 10);
+
+    const tax_percent = parseInt(readLine(), 10);
+
+    solve(meal_cost, tip_percent, tax_percent);
+}
