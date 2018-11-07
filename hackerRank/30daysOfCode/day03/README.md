@@ -1,49 +1,50 @@
 # Day 3: Intro to Conditional Statements
 
-## Objective
-In this challenge, we're getting started with conditional statements. Check out the <a href="https://www.hackerrank.com/challenges/30-conditional-statements/tutorial">Tutorial</a> tab for learning materials and an instructional video!
+#### Objective
+In this challenge, we're getting started with conditional statements. Check out the [Tutorial](https://www.hackerrank.com/challenges/30-conditional-statements/tutorial) tab for learning materials and an instructional video!
 
-## Task 
-Given an integer, <em>n</em>, perform the following conditional actions:
+#### Task 
+Given an integer, `n`, perform the following conditional actions:
 
-  * If <em>n</em> is odd, print Weird
-  * If <em>n</em> is even and in the inclusive range of 2 to 5, print Not Weird
-  * If <em>n</em> is even and in the inclusive range of 6 to 20, print Weird
-  * If <em>n</em> is even and greater than 20, print Not Weird
+- If `n` is odd, print `Weird`
+- If `n` is even and in the inclusive range of `2` to `5`, print `Not Weird`
+- If `n` is even and in the inclusive range of `6` to `20`, print `Weird`
+- If `n` is even and greater than `20`, print `Not Weird`
   
-Complete the stub code provided in your editor to print whether or not  is weird.
+Complete the stub code provided in your editor to print whether or not `n` is weird.
 
-## Input Format
+#### Input Format
+A single line containing a positive integer, `n`.
 
-A single line containing a positive integer, <em>n</em>.
+#### Constraints
+- `1 <= n <= 100`
 
-## Constraints
-  * 1 <= <em>n</em> <= 100
+#### Output Format
+Print `Weird` if the number is weird; otherwise, print `Not Weird`.
 
-## Output Format
-
-Print Weird if the number is weird; otherwise, print Not Weird.
-
-## Sample Input 0
-
+#### Sample Input 0
+```
 3
+```
 
-## Sample Output 0
-
+#### Sample Output 0
+```
 Weird
+```
 
-## Sample Input 1
-
+#### Sample Input 1
+```
 24
+```
 
-## Sample Output 1
-
+#### Sample Output 1
+```
 Not Weird
+```
 
-## Explanation
+#### Explanation
+Sample Case 0: `n = 3`  
+`n` is odd and odd numbers are weird, so we print `Weird`.
 
-<em>Sample Case 0: n</em> = 3
-<em>n</em> is odd and odd numbers are weird, so we print Weird.
-
-<em>Sample Case 1: n</em> = 24
-<em>n</em> > 20 and <em>n</em> is even, so it isn't weird. Thus, we print Not Weird.
+Sample Case 1: `n = 24`  
+`n > 20` and `n` is even, so it isn't weird. Thus, we print `Not Weird`.
