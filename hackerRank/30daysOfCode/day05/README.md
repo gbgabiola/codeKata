@@ -1,29 +1,26 @@
 # [Day 5: Loops](https://www.hackerrank.com/challenges/30-loops/problem)
 
-## Objective 
-In this challenge, we're going to use loops to help us do some simple math. Check out the Tutorial tab to learn more.
+#### Objective 
+In this challenge, we're going to use loops to help us do some simple math. Check out the [Tutorial](https://www.hackerrank.com/challenges/30-loops/tutorial) tab to learn more.
 
-## Task 
-Given an integer, **n**, print its first **10** multiples. Each multiple n x i (where 1 <= i <= 10) should be printed on a new line in the form: n x i = result.
+#### Task 
+Given an integer, `n`, print its first `10` multiples. Each multiple `n x i` (where `1 <= i <= 10`) should be printed on a new line in the form: `n x i = result`.
 
-## Input Format
+#### Input Format
+A single integer, `n`.
 
-A single integer, n.
+#### Constraints
+- `2 <= n <= 20`
 
-## Constraints
-* 2 <= n <= 20
+#### Output Format
+Print `10` lines of output; each line `i` (where `1 <= i <= 10`) contains the result of `n x i` in the form: `n x i = result`.
 
-## Output Format
-
-Print 10 lines of output; each line i (where 1 <= i <= 10) contains the result of n x i in the form: 
-n x i = result.
-
-## Sample Input
+#### Sample Input
 ```
 2
 ```
 
-## Sample Output
+#### Sample Output
 ```
 2 x 1 = 2
 2 x 2 = 4
