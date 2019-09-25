@@ -2,16 +2,18 @@
 
 Learn more about **[CodeKata](http://codekata.com/ "CodeKata")**.
 
-> Because experience
-> is the *only* teacher
+> Experience is the hardest kind of teacher, because
+> it gives you the test first and the lesson afterward. - _Vernon Law_
 
 ## A collection of problems for algorithm and data structure practices from:
-* [Hackerrank](https://www.hackerrank.com)
-* [Codewars](https://www.codewars.com/)
-* [CodeFights](https://codefights.com/)
-* [Leetcode](https://leetcode.com/)
-* [Google Code Jam](https://code.google.com/codejam/past-contests)
-* [CodePen](https://codepen.io)
 
+- [Codewars](codewars)
+- [Hackerrank](https://www.hackerrank.com)
+- [Project Euler](projecteuler)
+
+<!-- - [CodeFights](https://codefights.com/)
+- [CodePen](https://codepen.io)
+- [Google Code Jam](https://code.google.com/codejam/past-contests)
+- [Leetcode](https://leetcode.com/) -->
 
 Currently focused on JavaScript and Python..
