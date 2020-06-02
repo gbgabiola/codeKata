@@ -21,6 +21,6 @@
  */
 
 function checkEquality(a, b) {
-  // return a === b  ? true : false; // ternary operator
+  // return a === b ? true : false; // ternary operator
   return a === b;
 }

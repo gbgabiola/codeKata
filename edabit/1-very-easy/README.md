@@ -1,7 +1,4 @@
-# Edabit JavaScript Challenges
-
-
-## Very Easy Challenges
+# Very Easy Challenges
 
 - [x] [How Edabit Works](./how-edabit-works.js)
 - [x] [Return the Sum of Two Numbers](./return-the-sum-of-two-numbers.js)
@@ -17,16 +14,19 @@
 - [x] [Correct the Mistakes](./correct-the-mistakes.js)
 - [x] [Less Than 100](./less-than-100.js)
 - [x] [Is the Number Less than or Equal to Zero](./is-the-number-less-than-or-equal-to-zero.js)
-- [x] [Are the Numbers Equal](./are-the-numbers-equal.js)
+- [x] [Are the Numbers Equal?](./are-the-numbers-equal.js)
 - [x] [Fix the Error: Check whether a given number is odd](./fix-the-error-check-whether-a-given-number-is-odd.js)
 - [x] [Return a String as an Integer](./return-a-string-as-an-integer.js)
 - [x] [The Farm Problem](./the-farm-problem.js)
 - [x] [Convert Hours and Minutes into Seconds](./convert-hours-and-minutes-into-seconds.js)
 - [x] [Equality Check](./equality-check.js)
-
-
-<!-- ## Easy -->
-<!-- ## Medium -->
-<!-- ## Hard -->
-<!-- ## Very Hard -->
-<!-- ## Expert -->
+- [x] [Profitable Gamble](./profitable-gamble.js)
+- [x] [Frames Per Second](./frames-per-second.js)
+- [x] [Check if an Integer is Divisible By Five](./check-if-an-integer-is-divisible-by-five.js)
+- [x] [Concatenate First and Last Name into One String](./concatenate-first-and-last-name-into-one-string.js)
+- [x] [Compare Strings by Count of Characters](./compare-strings-by-count-of-characters.js)
+- [x] [Multiple of 100?](./multiple-of-100.js)
+- [x] [Is the String Empty?](./is-the-string-empty.js)
+- [x] [Reverse an Array](./reverse-an-array.js)
+- [x] [Evaluate an Equation](./evaluate-an-equation.js)
+- [x] [Divides Evenly](./divides-evenly.js)
