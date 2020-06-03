@@ -4,7 +4,7 @@
 ## Challenges
 
 - [Very Easy](./1-very-easy)
-- Easy
+- [Easy](./2-easy)
 - Medium
 - Hard
 - Very Hard
