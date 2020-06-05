@@ -10,3 +10,6 @@
 - [x] [Which Function Returns the Larger Number?](./which-function-returns-the-larger-number.js)
 - [x] [Convert a Number to Base 2](./convert-a-number-to-base-2.js)
 - [x] [Is it Time for Milk and Cookies?](./is-it-time-for-milk-and-cookies.js)
+- [x] [Largest Swap](./largest-swap.js)
+- [x] [Count Instances of a Character in a String](./count-instances-of-a-character-in-a-string.js)
+- [x] [Filter out Strings from an Array](./filter-out-strings-from-an-array.js)
