@@ -13,3 +13,6 @@
 - [x] [Largest Swap](./largest-swap.js)
 - [x] [Count Instances of a Character in a String](./count-instances-of-a-character-in-a-string.js)
 - [x] [Filter out Strings from an Array](./filter-out-strings-from-an-array.js)
+- [x] [Repeating Letters](./repeating-letters.js)
+- [x] [Factorial of a Positive Integer](./factorial-of-a-positive-integer.js)
+- [x] [Recursion: Factorials](./recursion-factorials.js)
