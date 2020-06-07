@@ -16,3 +16,6 @@
 - [x] [Repeating Letters](./repeating-letters.js)
 - [x] [Factorial of a Positive Integer](./factorial-of-a-positive-integer.js)
 - [x] [Recursion: Factorials](./recursion-factorials.js)
+- [x] [Summing a Slice](./summing-a-slice.js)
+- [x] [ES6: Destructuring Arrays I](./es6-destructuring-arrays-1.js)
+- [x] [No Conditionals?](./no-conditionals.js)
