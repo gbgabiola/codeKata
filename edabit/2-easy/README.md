@@ -19,3 +19,5 @@
 - [x] [Summing a Slice](./summing-a-slice.js)
 - [x] [ES6: Destructuring Arrays I](./es6-destructuring-arrays-1.js)
 - [x] [No Conditionals?](./no-conditionals.js)
+- [x] [How Many Vowels?](./how-many-vowels.js)
+- [x] [Return the Index of the First Vowel](./return-the-index-of-the-first-vowel.js)
