@@ -5,7 +5,7 @@
 
 - [Very Easy](./1-very-easy)
 - [Easy](./2-easy)
-- Medium
+- [Medium](./3-medium)
 - Hard
 - Very Hard
 - Expert
