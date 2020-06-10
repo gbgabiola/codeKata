@@ -30,3 +30,6 @@
 - [x] [Reverse an Array](./reverse-an-array.js)
 - [x] [Evaluate an Equation](./evaluate-an-equation.js)
 - [x] [Divides Evenly](./divides-evenly.js)
+- [x] [Using the "&&" Operator](./using-the-and-operator.js)
+- [x] [Word Without First Character](./word-without-first-character.js)
+- [x] [Is the Number Even or Odd?](./is-the-number-even-or-odd.js)
