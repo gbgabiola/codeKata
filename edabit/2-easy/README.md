@@ -22,4 +22,5 @@
 - [x] [How Many Vowels?](./how-many-vowels.js)
 - [x] [Return the Index of the First Vowel](./return-the-index-of-the-first-vowel.js)
 - [x] [Algorithms I: Introduction to Recursion](./algorithms-1-introduction-to-recursion.js)
+- [x] [Absolute Sum](./absolute-sum.js)
 - [ ] [Replace Vowel with Another Character](./replace-vowel-with-another-character.js)
