@@ -6,3 +6,8 @@
 - [x] [Resistor Color Duo](./resistor-color-duo/README.md)
 - [x] [Gigasecond](./gigasecond/README.md)
 - [x] [RNA Transcription](./rna-transcription/README.md)
+
+
+## Extra exercises
+
+- [x] [Leap](./leap/README.md)
