@@ -10,10 +10,12 @@ Learn more about **[CodeKata](http://codekata.com/ "CodeKata")**.
 - [Codewars](codewars)
 - [Hackerrank](https://www.hackerrank.com)
 - [Project Euler](projecteuler)
+- [edabit](./edabit)
+- [exercism](./exercism)
 
 <!-- - [CodeFights](https://codefights.com/)
 - [CodePen](https://codepen.io)
 - [Google Code Jam](https://code.google.com/codejam/past-contests)
 - [Leetcode](https://leetcode.com/) -->
 
-Currently focused on JavaScript and Python..
+Currently focused on JavaScript..
