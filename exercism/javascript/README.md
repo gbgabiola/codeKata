@@ -11,3 +11,4 @@
 ## Extra exercises
 
 - [x] [Leap](./leap/README.md)
+- [x] [Reverse String](./reverse-string/README.md)
