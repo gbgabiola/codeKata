@@ -1,6 +1,6 @@
 # Coding Dojo Algorithm
 
-- [ ] Level 1
+- [x] [Level 1](level-1.md)
 - [ ] Level 2
 - [ ] Level 3
 - [ ] Level 4
