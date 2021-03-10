@@ -8,6 +8,7 @@ Learn more about **[CodeKata](http://codekata.com/ "CodeKata")**.
 ## A collection of problems for algorithm and data structure practices from:
 
 - [Codewars](codewars)
+- [Coding Dojo Algorithm](codingdojo-algorithm)
 - [Hackerrank](https://www.hackerrank.com)
 - [Project Euler](projecteuler)
 - [edabit](./edabit)
