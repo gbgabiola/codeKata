@@ -9,6 +9,6 @@
 - [x] [Level 7](level-7.md)
 - [x] [Level 8](level-8.md)
 - [x] [Level 9](level-9.md)
-- [ ] Level 10
+- [x] [Level 10](level-10.md)
 - [ ] Level 11
 - [ ] Level 12
