@@ -2,7 +2,7 @@
 
 - [x] [Get 1 to 255](get-1-to-255.js)
 - [x] [Get even 1000](get-even-1000.js)
-- [ ] Sum odd 5000
+- [x] [Sum odd 5000](sum-odd-5000.js)
 - [ ] Iterate an array
 - [ ] Find max
 - [ ] Find average
