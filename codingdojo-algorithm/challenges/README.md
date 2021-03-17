@@ -1,7 +1,7 @@
 # Coding Dojo Challenges
 
 - [x] [Get 1 to 255](get-1-to-255.js)
-- [ ] Get even 1000
+- [x] [Get even 1000](get-even-1000.js)
 - [ ] Sum odd 5000
 - [ ] Iterate an array
 - [ ] Find max
