@@ -1,4 +1,4 @@
 # Coding Dojo Algorithms
 
 - [x] [Lessons](lessons/README.md)
-- [ ] Challenges
+- [ ] [Challenges](challenges/README.md)
