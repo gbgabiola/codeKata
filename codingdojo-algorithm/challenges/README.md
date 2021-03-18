@@ -5,7 +5,7 @@
 - [x] [Sum odd 5000](sum-odd-5000.js)
 - [x] [Iterate an array](iterate-an-array.js)
 - [x] [Find max](find-max.js)
-- [ ] Find average
+- [x] [Find average](find-average.js)
 - [ ] Array odd
 - [ ] Greater than Y
 - [ ] Squares
