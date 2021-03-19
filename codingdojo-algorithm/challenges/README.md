@@ -6,7 +6,7 @@
 - [x] [Iterate an array](iterate-an-array.js)
 - [x] [Find max](find-max.js)
 - [x] [Find average](find-average.js)
-- [ ] Array odd
+- [x] [Array odd](array-odd.js)
 - [ ] Greater than Y
 - [ ] Squares
 - [ ] Negatives
