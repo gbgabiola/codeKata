@@ -9,7 +9,7 @@
 - [x] [Array odd](array-odd.js)
 - [x] [Greater than Y](greater-than-y.js)
 - [x] [Squares](squares.js)
-- [ ] Negatives
+- [x] [Negatives](negatives.js)
 - [ ] Max/Min/Avg
 - [ ] Swap values
 - [ ] Number to string
