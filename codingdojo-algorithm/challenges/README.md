@@ -7,7 +7,7 @@
 - [x] [Find max](find-max.js)
 - [x] [Find average](find-average.js)
 - [x] [Array odd](array-odd.js)
-- [ ] Greater than Y
+- [x] [Greater than Y](greater-than-y.js)
 - [ ] Squares
 - [ ] Negatives
 - [ ] Max/Min/Avg
