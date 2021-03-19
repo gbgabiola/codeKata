@@ -8,7 +8,7 @@
 - [x] [Find average](find-average.js)
 - [x] [Array odd](array-odd.js)
 - [x] [Greater than Y](greater-than-y.js)
-- [ ] Squares
+- [x] [Squares](squares.js)
 - [ ] Negatives
 - [ ] Max/Min/Avg
 - [ ] Swap values
