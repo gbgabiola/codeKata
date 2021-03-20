@@ -10,6 +10,6 @@
 - [x] [Greater than Y](greater-than-y.js)
 - [x] [Squares](squares.js)
 - [x] [Negatives](negatives.js)
-- [ ] Max/Min/Avg
+- [x] [Max/Min/Avg](max-min-avg.js)
 - [ ] Swap values
 - [ ] Number to string
