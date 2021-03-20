@@ -11,5 +11,5 @@
 - [x] [Squares](squares.js)
 - [x] [Negatives](negatives.js)
 - [x] [Max/Min/Avg](max-min-avg.js)
-- [ ] Swap values
+- [x] [Swap values](swap-values.js)
 - [ ] Number to string
