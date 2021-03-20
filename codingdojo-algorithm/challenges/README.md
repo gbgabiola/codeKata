@@ -12,4 +12,4 @@
 - [x] [Negatives](negatives.js)
 - [x] [Max/Min/Avg](max-min-avg.js)
 - [x] [Swap values](swap-values.js)
-- [ ] Number to string
+- [x] [Number to string](number-to-string.js)
