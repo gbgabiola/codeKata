@@ -5,4 +5,5 @@
 - [Beginner Series #2 Clock](./beginner_series-2_clock)
 - [Beginner Series #4 Cockroach](./beginner_series-4_cockroach)
 - [Grasshopper - Personalized Message](./grasshopper-personalized_message)
+- [Grasshopper - Summation](./grasshopper-summation)
 - [Grasshopper - Terminal game move function](./grasshopper-terminal_game_move_function)
