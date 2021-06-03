@@ -5,6 +5,7 @@
 - [x] [Beginner Series #2 Clock](./beginner_series-2_clock)
 - [x] [Beginner Series #4 Cockroach](./beginner_series-4_cockroach)
 - [x] [Grasshopper - Basic Function Fixer](./grasshopper-basic_function_fixer)
+- [x] [Grasshopper - Function syntax debugging](./grasshopper-function_syntax_debugging)
 - [x] [Grasshopper - Grade book](./grasshopper-grade_book)
 - [x] [Grasshopper - If/else syntax debug](./grasshopper-If_else_syntax_debug)
 - [x] [Grasshopper - Personalized Message](./grasshopper-personalized_message)
