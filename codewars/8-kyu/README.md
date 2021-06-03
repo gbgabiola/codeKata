@@ -6,6 +6,7 @@
 - [x] [Beginner Series #4 Cockroach](./beginner_series-4_cockroach)
 - [x] [Grasshopper - Basic Function Fixer](./grasshopper-basic_function_fixer)
 - [x] [Grasshopper - Grade book](./grasshopper-grade_book)
+- [x] [Grasshopper - If/else syntax debug](./grasshopper-If_else_syntax_debug)
 - [x] [Grasshopper - Personalized Message](./grasshopper-personalized_message)
 - [x] [Grasshopper - Summation](./grasshopper-summation)
 - [x] [Grasshopper - Terminal game move function](./grasshopper-terminal_game_move_function)
