@@ -10,6 +10,7 @@
 - [x] [Grasshopper - Function syntax debugging](./grasshopper-function_syntax_debugging)
 - [x] [Grasshopper - Grade book](./grasshopper-grade_book)
 - [x] [Grasshopper - If/else syntax debug](./grasshopper-If_else_syntax_debug)
+- [x] [Grasshopper - Messi Goals](./grasshopper-personalized_message)
 - [x] [Grasshopper - Personalized Message](./grasshopper-personalized_message)
 - [x] [Grasshopper - Summation](./grasshopper-summation)
 - [x] [Grasshopper - Terminal game move function](./grasshopper-terminal_game_move_function)
