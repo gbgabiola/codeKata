@@ -7,6 +7,7 @@
 - [x] [Grasshopper - Basic Function Fixer](./grasshopper-basic_function_fixer)
 - [x] [Grasshopper - Bug Squashing](./grasshopper-bug_squashing)
 - [x] [Grasshopper - Check for factor](./grasshopper-check_for_factor)
+- [x] [Grasshopper - Combine strings](./grasshopper-combine_strings)
 - [x] [Grasshopper - Create the rooms](./grasshopper-create_the_rooms)
 - [x] [Grasshopper - Debug](./grasshopper-debug)
 - [x] [Grasshopper - Debug sayHello](./grasshopper-debug_sayHello)
