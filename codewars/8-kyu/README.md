@@ -17,6 +17,7 @@
 - [x] [Grasshopper - Messi goals function](./grasshopper-messi_goals_function)
 - [x] [Grasshopper - Personalized Message](./grasshopper-personalized_message)
 - [x] [Grasshopper - Summation](./grasshopper-summation)
+- [x] [Grasshopper - Terminal Game #1](./grasshopper-terminal_game_1)
 - [x] [Grasshopper - Terminal game combat function](./grasshopper-terminal_game_combat_function)
 - [x] [Grasshopper - Terminal game move function](./grasshopper-terminal_game_move_function)
 - [x] [Grasshopper - Variable Assignment Debug](./grasshopper-variable_assignment_debug)
