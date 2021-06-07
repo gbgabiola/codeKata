@@ -16,6 +16,7 @@
 - [x] [Grasshopper - If/else syntax debug](./grasshopper-If_else_syntax_debug)
 - [x] [Grasshopper - Messi Goals](./grasshopper-personalized_message)
 - [x] [Grasshopper - Messi goals function](./grasshopper-messi_goals_function)
+- [x] [Grasshopper - Object syntax debug](./grasshopper-object_syntax_debug)
 - [x] [Grasshopper - Personalized Message](./grasshopper-personalized_message)
 - [x] [Grasshopper - Summation](./grasshopper-summation)
 - [x] [Grasshopper - Terminal Game #1](./grasshopper-terminal_game_1)
