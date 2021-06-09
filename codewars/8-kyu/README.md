@@ -5,6 +5,7 @@
 - [x] [Beginner Series #2 Clock](./beginner_series-2_clock)
 - [x] [Beginner Series #4 Cockroach](./beginner_series-4_cockroach)
 - [x] [Find Multiples of a Number](./find-multiples-of-a-number)
+- [x] [Find the first non-consecutive number](./find-the-first-non-consecutive-number)
 - [x] [Grasshopper - Array Mean](./grasshopper-array_mean)
 - [x] [Grasshopper - Basic Function Fixer](./grasshopper-basic_function_fixer)
 - [x] [Grasshopper - Bug Squashing](./grasshopper-bug_squashing)
