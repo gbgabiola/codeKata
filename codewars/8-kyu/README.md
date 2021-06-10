@@ -29,3 +29,4 @@
 - [x] [Grasshopper - Terminal Game Turn Function](./grasshopper-terminal_game_turn_function)
 - [x] [Grasshopper - Variable Assignment Debug](./grasshopper-variable_assignment_debug)
 - [x] [Invert values](./invert-values)
+- [x] [String cleaning](./string-cleaning)
