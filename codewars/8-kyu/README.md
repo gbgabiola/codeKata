@@ -1,6 +1,7 @@
 # Codewars 8-kyu Katas
 
 
+- [ ] [Basic Mathematical Operations](./basic-mathematical-operations)
 - [x] [Beginner Series #1 School Paperwork](./beginner_series-1_school_paperwork)
 - [x] [Beginner Series #2 Clock](./beginner_series-2_clock)
 - [x] [Beginner Series #4 Cockroach](./beginner_series-4_cockroach)
