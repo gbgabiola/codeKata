@@ -31,3 +31,4 @@
 - [x] [Grasshopper - Variable Assignment Debug](./grasshopper-variable_assignment_debug)
 - [x] [Invert values](./invert-values)
 - [x] [String cleaning](./string-cleaning)
+- [x] [Sum without highest and lowest number](./sum-without-highest-and-lowest-number)
