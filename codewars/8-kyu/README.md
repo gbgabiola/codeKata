@@ -1,10 +1,11 @@
 # Codewars 8-kyu Katas
 
 
-- [ ] [Basic Mathematical Operations](./basic-mathematical-operations)
+- [x] [Basic Mathematical Operations](./basic-mathematical-operations)
 - [x] [Beginner Series #1 School Paperwork](./beginner_series-1_school_paperwork)
 - [x] [Beginner Series #2 Clock](./beginner_series-2_clock)
 - [x] [Beginner Series #4 Cockroach](./beginner_series-4_cockroach)
+- [x] [Convert number to reversed array of digits](./convert-number-to-reversed-array-of-digits)
 - [x] [Find Multiples of a Number](./find-multiples-of-a-number)
 - [x] [Find the first non-consecutive number](./find-the-first-non-consecutive-number)
 - [x] [Grasshopper - Array Mean](./grasshopper-array_mean)
