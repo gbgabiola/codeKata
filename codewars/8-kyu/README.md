@@ -1,6 +1,7 @@
 # Codewars 8-kyu Katas
 
 
+- [x] [A Needle in the Haystack](./a-needle-in-the-haystack)
 - [x] [Basic Mathematical Operations](./basic-mathematical-operations)
 - [x] [Beginner Series #1 School Paperwork](./beginner_series-1_school_paperwork)
 - [x] [Beginner Series #2 Clock](./beginner_series-2_clock)
