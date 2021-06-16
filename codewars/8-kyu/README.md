@@ -34,6 +34,7 @@
 - [x] [Grasshopper - Terminal Game Turn Function](./grasshopper-terminal_game_turn_function)
 - [x] [Grasshopper - Variable Assignment Debug](./grasshopper-variable_assignment_debug)
 - [x] [Invert values](./invert-values)
+- [x] [Removing Elements](./removing-elements)
 - [x] [Reversing Words in a String](./reversing-words-in-a-string)
 - [x] [String cleaning](./string-cleaning)
 - [x] [Sum without highest and lowest number](./sum-without-highest-and-lowest-number)
