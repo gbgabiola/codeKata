@@ -8,6 +8,7 @@
 - [x] [Beginner Series #4 Cockroach](./beginner_series-4_cockroach)
 - [x] [Convert number to reversed array of digits](./convert-number-to-reversed-array-of-digits)
 - [x] [Double Char](./double-char)
+- [x] [Dollars and Cents](./dollars-and-cents)
 - [x] [Fake Binary](./fake-binary)
 - [x] [Find Multiples of a Number](./find-multiples-of-a-number)
 - [x] [Find the first non-consecutive number](./find-the-first-non-consecutive-number)
