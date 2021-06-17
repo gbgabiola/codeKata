@@ -12,6 +12,7 @@
 - [x] [Fake Binary](./fake-binary)
 - [x] [Find Multiples of a Number](./find-multiples-of-a-number)
 - [x] [Find the first non-consecutive number](./find-the-first-non-consecutive-number)
+- [x] [Find the position!](./find-the-position)
 - [x] [Grasshopper - Array Mean](./grasshopper-array_mean)
 - [x] [Grasshopper - Basic Function Fixer](./grasshopper-basic_function_fixer)
 - [x] [Grasshopper - Bug Squashing](./grasshopper-bug_squashing)
