@@ -9,6 +9,7 @@
 - [x] [Convert number to reversed array of digits](./convert-number-to-reversed-array-of-digits)
 - [x] [Double Char](./double-char)
 - [x] [Dollars and Cents](./dollars-and-cents)
+- [x] [Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right](./exclamation-marks-series-6-remove-n-exclamation-marks-in-the-sentence-from-left-to-right)
 - [x] [Fake Binary](./fake-binary)
 - [x] [Find Multiples of a Number](./find-multiples-of-a-number)
 - [x] [Find the first non-consecutive number](./find-the-first-non-consecutive-number)
