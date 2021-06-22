@@ -5,3 +5,4 @@
 - [x] [Beginner Series #5 Triangular Numbers](./beginner-series-5-triangular-numbers)
 - [x] [Mumbling](./mumbling)
 - [x] [Get the Middle Character](./get-the-middle-character)
+- [x] [Sum of two lowest positive integers](./sum-of-two-lowest-positive-integers)
