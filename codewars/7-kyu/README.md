@@ -7,4 +7,5 @@
 - [x] [List Filtering](./list-filtering)
 - [x] [Mumbling](./mumbling)
 - [x] [Get the Middle Character](./get-the-middle-character)
+- [x] [Regex validate PIN code](./regex-validate-pin-code)
 - [x] [Sum of two lowest positive integers](./sum-of-two-lowest-positive-integers)
