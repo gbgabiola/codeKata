@@ -9,4 +9,5 @@
 - [x] [Mumbling](./mumbling)
 - [x] [Get the Middle Character](./get-the-middle-character)
 - [x] [Regex validate PIN code](./regex-validate-pin-code)
+- [x] [Rotate for a Max](./rotate-for-a-max)
 - [x] [Sum of two lowest positive integers](./sum-of-two-lowest-positive-integers)
