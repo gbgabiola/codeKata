@@ -1,6 +1,7 @@
 # Codewars 7-kyu Katas
 
 
+- [x] [Averages of numbers](./averages-of-numbers)
 - [x] [Beginner Series #3 Sum of Numbers](./beginner-series-3-sum-of-numbers)
 - [x] [Beginner Series #5 Triangular Numbers](./beginner-series-5-triangular-numbers)
 - [x] [Broken sequence](./broken-sequence)
