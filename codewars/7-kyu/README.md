@@ -6,6 +6,7 @@
 - [x] [Beginner Series #5 Triangular Numbers](./beginner-series-5-triangular-numbers)
 - [x] [Broken sequence](./broken-sequence)
 - [x] [Credit Card Mask](./credit-card-mask)
+- [x] [Find the capitals](./find-the-capitals)
 - [x] [List Filtering](./list-filtering)
 - [x] [Mumbling](./mumbling)
 - [x] [Get the Middle Character](./get-the-middle-character)
