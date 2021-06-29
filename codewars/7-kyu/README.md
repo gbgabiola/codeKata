@@ -10,6 +10,7 @@
 - [x] [List Filtering](./list-filtering)
 - [x] [Mumbling](./mumbling)
 - [x] [Get the Middle Character](./get-the-middle-character)
+- [x] [Parts of a list](./parts-of-a-list)
 - [x] [Regex validate PIN code](./regex-validate-pin-code)
 - [x] [Rotate for a Max](./rotate-for-a-max)
 - [x] [Sum of two lowest positive integers](./sum-of-two-lowest-positive-integers)
